@@ -1,0 +1,6 @@
+2023/11/08-00:11:00.270 1f0 Creating DB C:\Users\oshan\AppData\Local\Temp\flutter_tools.d36706b3\flutter_tools_chrome_device.7a3540f8\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/11/08-00:11:00.288 1f0 Reusing MANIFEST C:\Users\oshan\AppData\Local\Temp\flutter_tools.d36706b3\flutter_tools_chrome_device.7a3540f8\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/08-00:11:00.343 87c4 Level-0 table #5: started
+2023/11/08-00:11:00.355 87c4 Level-0 table #5: 7461 bytes OK
+2023/11/08-00:11:00.363 87c4 Delete type=0 #3
+2023/11/08-00:11:00.364 6b50 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

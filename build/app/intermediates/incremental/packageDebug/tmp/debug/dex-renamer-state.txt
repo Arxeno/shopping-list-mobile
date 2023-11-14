@@ -1,4 +1,4 @@
-#Wed Nov 08 09:00:09 WIB 2023
+#Tue Nov 14 15:21:40 WIB 2023
 base.0=C\:\\Users\\oshan\\Documents\\My Mobile Projects\\shopping_list\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -373,3 +373,83 @@ Contributing types: Sessions, User Consents}
 Contributing types: Preferences, Sessions}
 {"logTime": "1115/092551", "correlationVector":"I/h2t6+Axu9zcbnrXJTec1.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000000"}}
 {"logTime": "1115/092551", "correlationVector":"I/h2t6+Axu9zcbnrXJTec1.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=I/h2t6+Axu9zcbnrXJTec1.0;server=GENERAL01000000;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/092829", "correlationVector":"Rx0foDIjXgjAv42kbcBD6W.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1115/092829", "correlationVector":"bKzBLn/AZ4FyiZcvCwCi76.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000007"}}
+{"logTime": "1115/092830", "correlationVector":"bKzBLn/AZ4FyiZcvCwCi76","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=bKzBLn/AZ4FyiZcvCwCi76}
+{"logTime": "1115/092830", "correlationVector":"bKzBLn/AZ4FyiZcvCwCi76.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=bKzBLn/AZ4FyiZcvCwCi76.0;server=GENERAL01000007;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/092830", "correlationVector":"En/+l9XVwf2AGyzIVSdcqi","action":"Initial GetUpdates", "result":"", "context":Reason: NEWLY_SUPPORTED_DATATYPE. cV=En/+l9XVwf2AGyzIVSdcqi}
+{"logTime": "1115/092830", "correlationVector":"En/+l9XVwf2AGyzIVSdcqi.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000004"}}
+{"logTime": "1115/092830", "correlationVector":"En/+l9XVwf2AGyzIVSdcqi.2","action":"GetUpdates", "result":"DeleteReceived", "context":{"id":"5a24dc07-e202-4195-892e-5338ff78310f", "isDeleted:":"true", "version":"1680840220489"}}
+{"logTime": "1115/092830", "correlationVector":"En/+l9XVwf2AGyzIVSdcqi.3","action":"GetUpdates", "result":"DeleteReceived", "context":{"id":"c01a376b-e597-4c0e-9c51-0ba43340f2db", "isDeleted:":"true", "version":"1681135985717"}}
+{"logTime": "1115/092830", "correlationVector":"En/+l9XVwf2AGyzIVSdcqi.4","action":"GetUpdates", "result":"DeleteReceived", "context":{"id":"a62c6f3f-4f2c-4f70-b847-e7fc554f0363", "isDeleted:":"true", "version":"1684996224718"}}
+{"logTime": "1115/092830", "correlationVector":"En/+l9XVwf2AGyzIVSdcqi.5","action":"GetUpdates", "result":"DeleteReceived", "context":{"id":"288f1808-912e-4419-b7ae-dd413e072711", "isDeleted:":"true", "version":"1687096895354"}}
+{"logTime": "1115/092830", "correlationVector":"En/+l9XVwf2AGyzIVSdcqi.6","action":"GetUpdates", "result":"DeleteReceived", "context":{"id":"f74f77ca-3343-4b30-b49a-1dbdb1a40893", "isDeleted:":"true", "version":"1687632511956"}}
+{"logTime": "1115/092830", "correlationVector":"En/+l9XVwf2AGyzIVSdcqi.7","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 97 update(s). cV=En/+l9XVwf2AGyzIVSdcqi.0;server=GENERAL01000004;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/092830", "correlationVector":"1ZD/6f5MqgBkNFNpncBHo3","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "migrationStage":"", "server":""}}
+{"logTime": "1115/092830", "correlationVector":"jWngW1Kx/7Cp3hM0fxTEn4","action":"Normal GetUpdate request", "result":"", "context":cV=jWngW1Kx/7Cp3hM0fxTEn4
+Nudged types: Sessions, User Consents
+Refresh requested types: Bookmarks, Preferences, Passwords, Autofill, Autofill Custom Data, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Wallet, Encryption Keys}
+{"logTime": "1115/092830", "correlationVector":"jWngW1Kx/7Cp3hM0fxTEn4.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000V"}}
+{"logTime": "1115/092830", "correlationVector":"jWngW1Kx/7Cp3hM0fxTEn4.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=jWngW1Kx/7Cp3hM0fxTEn4.0;server=GENERAL0100000V;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/092830", "correlationVector":"LJlNmgHlqux93FbM2R3fBb","action":"Commit Request", "result":"", "context":Item count: 4
+Contributing types: Sessions, User Consents}
+{"logTime": "1115/092830", "correlationVector":"LJlNmgHlqux93FbM2R3fBb.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000015"}}
+{"logTime": "1115/092830", "correlationVector":"LJlNmgHlqux93FbM2R3fBb.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=LJlNmgHlqux93FbM2R3fBb.0;server=GENERAL01000015;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/092830", "correlationVector":"eRUDM4DSKuWQ7eF+dYpron","action":"Normal GetUpdate request", "result":"", "context":cV=eRUDM4DSKuWQ7eF+dYpron
+Nudged types: Sessions
+Refresh requested types: Bookmarks, Preferences, Passwords, Autofill, Autofill Custom Data, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Wallet, Encryption Keys}
+{"logTime": "1115/092830", "correlationVector":"eRUDM4DSKuWQ7eF+dYpron.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000Z"}}
+{"logTime": "1115/092830", "correlationVector":"eRUDM4DSKuWQ7eF+dYpron.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 3 update(s). cV=eRUDM4DSKuWQ7eF+dYpron.0;server=GENERAL0100000Z;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/092837", "correlationVector":"zQhgKP16LBvtzf4ZnPHAqH","action":"Normal GetUpdate request", "result":"", "context":cV=zQhgKP16LBvtzf4ZnPHAqH
+Nudged types: Preferences, Sessions}
+{"logTime": "1115/092838", "correlationVector":"zQhgKP16LBvtzf4ZnPHAqH.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100001B"}}
+{"logTime": "1115/092838", "correlationVector":"zQhgKP16LBvtzf4ZnPHAqH.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=zQhgKP16LBvtzf4ZnPHAqH.0;server=GENERAL0100001B;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/092838", "correlationVector":"wYADoSs+3yDjS36JzbimpA","action":"Commit Request", "result":"", "context":Item count: 3
+Contributing types: Preferences, Sessions}
+{"logTime": "1115/092838", "correlationVector":"wYADoSs+3yDjS36JzbimpA.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000009"}}
+{"logTime": "1115/092838", "correlationVector":"wYADoSs+3yDjS36JzbimpA.3","action":"Commit.Sessions", "result":"Success", "context":{"id":"c8f486ad-5bf3-4f5c-b36a-cec17446c843", "isDeleted":"true", "size":"0", "version":"1700040503683"}}
+{"logTime": "1115/092838", "correlationVector":"wYADoSs+3yDjS36JzbimpA.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=wYADoSs+3yDjS36JzbimpA.0;server=GENERAL01000009;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/092851", "correlationVector":"5cqQbxi7PmA/nxXH2T7Qjh","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Preferences}
+{"logTime": "1115/092852", "correlationVector":"5cqQbxi7PmA/nxXH2T7Qjh.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000004"}}
+{"logTime": "1115/092852", "correlationVector":"5cqQbxi7PmA/nxXH2T7Qjh.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=5cqQbxi7PmA/nxXH2T7Qjh.0;server=GENERAL01000004;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/093127", "correlationVector":"Rlmt96d0JmEz1e3ZAAmGsZ","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/093127", "correlationVector":"Rlmt96d0JmEz1e3ZAAmGsZ.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000002"}}
+{"logTime": "1115/093127", "correlationVector":"Rlmt96d0JmEz1e3ZAAmGsZ.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=Rlmt96d0JmEz1e3ZAAmGsZ.0;server=GENERAL01000002;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/093346", "correlationVector":"5n7hqLZDQQtOydylCQppU7","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/093347", "correlationVector":"5n7hqLZDQQtOydylCQppU7.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000003"}}
+{"logTime": "1115/093347", "correlationVector":"5n7hqLZDQQtOydylCQppU7.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=5n7hqLZDQQtOydylCQppU7.0;server=GENERAL01000003;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/093453", "correlationVector":"vbT5xFIBZNyK8q1LbrdN1g","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/093453", "correlationVector":"vbT5xFIBZNyK8q1LbrdN1g.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000R"}}
+{"logTime": "1115/093453", "correlationVector":"vbT5xFIBZNyK8q1LbrdN1g.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=vbT5xFIBZNyK8q1LbrdN1g.0;server=GENERAL0100000R;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/093740", "correlationVector":"o0wCrhvlRaNMqJysBtqZkm","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Passwords}
+{"logTime": "1115/093741", "correlationVector":"o0wCrhvlRaNMqJysBtqZkm.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000U"}}
+{"logTime": "1115/093741", "correlationVector":"o0wCrhvlRaNMqJysBtqZkm.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=o0wCrhvlRaNMqJysBtqZkm.0;server=GENERAL0100000U;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/093741", "correlationVector":"yxurim6b9ZmVR8AZDBji5D","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/093741", "correlationVector":"yxurim6b9ZmVR8AZDBji5D.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000H"}}
+{"logTime": "1115/093741", "correlationVector":"yxurim6b9ZmVR8AZDBji5D.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=yxurim6b9ZmVR8AZDBji5D.0;server=GENERAL0100000H;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/093834", "correlationVector":"DMkAOkSyAT6VvZE70g2hWv","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/093834", "correlationVector":"DMkAOkSyAT6VvZE70g2hWv.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000017"}}
+{"logTime": "1115/093834", "correlationVector":"DMkAOkSyAT6VvZE70g2hWv.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=DMkAOkSyAT6VvZE70g2hWv.0;server=GENERAL01000017;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/093911", "correlationVector":"74gyaB426wwbp/MUuFxjqi","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/093911", "correlationVector":"74gyaB426wwbp/MUuFxjqi.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000J"}}
+{"logTime": "1115/093911", "correlationVector":"74gyaB426wwbp/MUuFxjqi.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=74gyaB426wwbp/MUuFxjqi.0;server=GENERAL0100000J;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/093945", "correlationVector":"fq2AEtyZYhpG38md66NP/U","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/093945", "correlationVector":"fq2AEtyZYhpG38md66NP/U.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL01000001"}}
+{"logTime": "1115/093945", "correlationVector":"fq2AEtyZYhpG38md66NP/U.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=fq2AEtyZYhpG38md66NP/U.0;server=GENERAL01000001;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/094050", "correlationVector":"AjfDmEuiwNEonC7zNO48wF","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/094050", "correlationVector":"AjfDmEuiwNEonC7zNO48wF.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000U"}}
+{"logTime": "1115/094050", "correlationVector":"AjfDmEuiwNEonC7zNO48wF.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=AjfDmEuiwNEonC7zNO48wF.0;server=GENERAL0100000U;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
+{"logTime": "1115/094146", "correlationVector":"fig8ik3h3wy5LmtCvI5ZXG","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Sessions}
+{"logTime": "1115/094146", "correlationVector":"fig8ik3h3wy5LmtCvI5ZXG.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia_000j", "migrationStage":"NotStarted", "server":"GENERAL0100000F"}}
+{"logTime": "1115/094146", "correlationVector":"fig8ik3h3wy5LmtCvI5ZXG.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=fig8ik3h3wy5LmtCvI5ZXG.0;server=GENERAL0100000F;cloudType=Consumer;environment=Prod_SoutheastAsia_000j;migrationStage=NotStarted}
